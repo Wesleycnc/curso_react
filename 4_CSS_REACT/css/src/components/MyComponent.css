@@ -1,0 +1,10 @@
+/* Sempre que for trocar estilos de uma pagina trabalhar com css, use nomes especificos para cada classe para o css não entrar em conflito e mudar cores no app.js */
+p {
+    color: green;
+    background-color: black;
+}
+
+.my-comp-paragraph {
+    color: black;
+    background-color: gold;
+}

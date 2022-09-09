@@ -1,0 +1,69 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Camisa",
+      "price": 59.9
+    },
+    {
+      "id": 2,
+      "name": "Calça vermelha",
+      "price": 90
+    },
+    {
+      "id": 3,
+      "name": "Boné aba reta",
+      "price": 29.9
+    },
+    {
+      "name": "geladeira",
+      "price": "5000",
+      "id": 5
+    },
+    {
+      "name": "cadeira",
+      "price": "100",
+      "id": 6
+    },
+    {
+      "name": "geladeira",
+      "price": "1000",
+      "id": 7
+    },
+    {
+      "name": "geladeira",
+      "price": "1000",
+      "id": 8
+    },
+    {
+      "name": "TV",
+      "price": "1000",
+      "id": 9
+    },
+    {
+      "name": "Playstation 5",
+      "price": "5000",
+      "id": 10
+    },
+    {
+      "name": "xbox",
+      "price": "2500",
+      "id": 26
+    },
+    {
+      "name": "xbox one",
+      "price": "2333",
+      "id": 27
+    },
+    {
+      "name": "xbox one",
+      "price": "2333",
+      "id": 28
+    },
+    {
+      "name": "Playstation 4",
+      "price": "1500",
+      "id": 29
+    }
+  ]
+}
